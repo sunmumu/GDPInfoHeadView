@@ -9,8 +9,12 @@
 ![GDPInfoHeadView](https://github.com/sunmumu/GDPInfoHeadView/blob/master/images/head.GIF)
 
 ## Use
+法一 cocopods引用
+pod 'GDPInfoHeadView'
+
+法二 文件拖入项目中
 下载GDPInfoHeadView框架,把GDPInfoHeadView文件夹拷贝到项目中.
-在控制器中#import "GDPInfoHeadView.h".
+导入头文件#import "GDPInfoHeadView.h".
 
 ## 创建方法
 ```
