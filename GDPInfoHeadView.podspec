@@ -3,7 +3,7 @@
 
 Pod::Spec.new do |s|
   s.name         = 'GDPInfoHeadView'
-  s.version      = '1.0.1'
+  s.version      = '1.0.2'
   s.summary      = '封装个人中心,头像视图, 可以更改头像.'
   s.homepage     = 'https://github.com/sunmumu/GDPInfoHeadView'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
