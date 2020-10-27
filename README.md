@@ -6,7 +6,8 @@
 
 如下GIF
 
-![GDPInfoHeadView](https://github.com/sunmumu/GDPInfoHeadView/blob/master/images/head.GIF)
+![GDPInfoHeadView](https://github.com/sunmumu/GDPInfoHeadView/blob/main/Demo/images/head.GIF?raw=true)
+
 
 ## Use
 法一 cocopods引用
