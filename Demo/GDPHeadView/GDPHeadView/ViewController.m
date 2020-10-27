@@ -27,7 +27,6 @@
     [self.view addSubview:self.headView];
 }
 
-
 #pragma mark - Getter && Setter
 - (GDPInfoHeadView *)headView {
     if (!_headView) {

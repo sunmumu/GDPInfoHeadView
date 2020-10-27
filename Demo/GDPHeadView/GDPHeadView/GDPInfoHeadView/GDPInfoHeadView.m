@@ -30,12 +30,12 @@
 }
 
 + (instancetype)_alloc {
-    return [super allocWithZone:NSDefaultMallocZone()];
+    return [super allocWithZone:NSDefaultMallocZone()];
 }
 
 - (instancetype)init {
-    NSCAssert(NO, @"请使用`- (instancetype)initWithFrame:(CGRect)frame headImageName:(NSString *)headImageName headLabelName:(NSString *)headLabelName target:(UIViewController *)target imageBlock:(ImageBlock)imageBlock`方法创建对象");
-    return nil;
+    NSCAssert(NO, @"请使用`- (instancetype)initWithFrame:(CGRect)frame headImageName:(NSString *)headImageName headLabelName:(NSString *)headLabelName target:(UIViewController *)target imageBlock:(ImageBlock)imageBlock`方法创建对象");
+    return nil;
 }
 
 // MARK: - setupUI
